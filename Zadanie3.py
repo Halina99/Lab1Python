@@ -1,0 +1,1 @@
+print(float(input("Wpisz liczbę: ")) +float(input("Wpisz liczbę ")))
